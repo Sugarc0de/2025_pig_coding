@@ -2,7 +2,7 @@
 # Neighborhood is a quadratic polynomial f(x, y) = Ax^2 + By^2 + Cxy + Dx + Ey + F and you are given [A, B, C, D, E, F]
 # as input. Determine if a given neighborhood is suitable.
 
-# Difficulty: 5. Requires Hessian matrix and eigenvectors
+# Difficulty: 4. Requires Hessian matrix and eigenvectors
 import numpy as np
 from numpy import linalg
 

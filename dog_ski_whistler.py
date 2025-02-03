@@ -3,6 +3,7 @@
 # vector that points towards 10 degree. Return the degree if less than 10 is maximum.
 
 # Assume the mountain is -0.2x^2 - 0.4y^2 + 0.8x - 0.5y + 1000
+# Difficulty: 6
 
 import math
 
